@@ -3,3 +3,5 @@ another file adjusted in feature-1 branch
 another line added remotely.  Added in feature-2
 
 Another change
+
+Edited in feature.-2
